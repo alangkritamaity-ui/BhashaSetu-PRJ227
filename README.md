@@ -1,4 +1,4 @@
-# BhashaSetu-PRJ227
+# BhashaSetu
 
 ## AI-Powered English to Indian Regional Language Translation System
 
